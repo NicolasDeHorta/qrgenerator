@@ -48,4 +48,4 @@ with col2:
         data=buffer,
         file_name="QR_download.png",
         mime="image/png"
-    )
+    )   
